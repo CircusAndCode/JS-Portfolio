@@ -9,6 +9,7 @@ Here is a portfolio built using HTML, CSS and JS
 - JS Music Player
 - JS Rigging Calculator
 - JS Movebook 
-- JS E-Commerce site
 - Chrome Extension
+- CircusAndCode NFT
+- LiveStreaming Server
 - CircusAndCode Game
